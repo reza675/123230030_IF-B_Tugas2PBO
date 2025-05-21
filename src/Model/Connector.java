@@ -8,7 +8,7 @@ public class Connector {
         Pada contoh ini kita menggunakan database bernama "upnvy".
      */
     private static String jdbc_driver = "com.mysql.cj.jdbc.Driver";
-    private static String nama_db = "upn";
+    private static String nama_db = "upnvy";
     private static String url_db = "jdbc:mysql://localhost:3306/" + nama_db;
     private static String username_db = "root";
     private static String password_db = "";
