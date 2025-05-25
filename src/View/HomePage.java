@@ -3,9 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package View;
-
-import View.Mahasiswa.ViewData;
-
 /**
  *
  * @author ASUS
